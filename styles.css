@@ -1,0 +1,8 @@
+div {
+    padding: 5px;
+    background-color: green;
+}
+
+div:hover, button:hover {
+    cursor: pointer;
+}
